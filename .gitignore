@@ -3,3 +3,4 @@ node_modules
 testVideo.mp4
 
 compressed/
+bin/
